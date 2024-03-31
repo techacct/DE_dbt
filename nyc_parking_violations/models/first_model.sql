@@ -1,1 +1,0 @@
-SELECT * FROM paking_violation_codes
